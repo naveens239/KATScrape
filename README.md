@@ -14,19 +14,40 @@ COURT 1 (Principal Bench)
 ------------------------------
 
 There's no case for Adv. JAJU BABU K in Court 1 (Principal Bench).
+
+
 Adv. BRIJESH MOHAN has 7 case(s) in Court 1 (Principal Bench)!
+
 Adv. RESMI G NAIR has 6 case(s) in Court 1 (Principal Bench)!
 
 Adv. JAYAKRISHNAN D has 4 case(s) in Court 1 (Principal Bench)!
+
+
 Adv. UNNIKRISHNAN C has 1 case(s) in Court 1 (Principal Bench)!
+
 There's no case for Adv. NIDHI BALACHANDRAN in Court 1 (Principal Bench).
+
 There's no case for Adv. HARIKRISHNAN S in Court 1 (Principal Bench).
+
 There's no case for Adv. VENUGOPALAN NAIR V in Court 1 (Principal Bench).
+
 Adv. RENOJ S has 2 case(s) in Court 1 (Principal Bench)!
+
 Adv. MAHESH DEV M S has 1 case(s) in Court 1 (Principal Bench)!
+
 Adv. SHEEJA M S has 3 case(s) in Court 1 (Principal Bench)!
+
 There's no case for Adv. RAJAPRATHAP S J in Court 1 (Principal Bench).
+
 Adv. SUBAIR KUNJU P has 1 case(s) in Court 1 (Principal Bench)!
+
 There's no case for Adv. LIZZIE ALBERT in Court 1 (Principal Bench).
+
 Adv. PRAKASH G S has 1 case(s) in Court 1 (Principal Bench)!
+
 Adv. BASIL AJITH has 1 case(s) in Court 1 (Principal Bench)!
+
+
+
+
+Kindly see the Matters Before KAT on 09-12-2016.pdf to see the ideal output.
