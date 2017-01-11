@@ -3,3 +3,7 @@
 All the requirements and functionality will be detailed here.
 
 
+Description
+Every court publishes a daily list (usually every evening) which contains the cases that will be called and heard the next day. This list is called the cause list. Each court has a unique format for publishing the cause list. A cause list usually contains the unique number of the case, the item number (the number which indicates the type of process for which the case is being called on that particular day), the name of the advocates appearing for the case, etc.
+
+KATscrape is a tool intended to parse the daily cause list of the Kerala Administrative Tribunal and generate a unique list for a lawyer registered with the tool indicating the number of cases he/she has the next day and other details as described below.
