@@ -17,10 +17,12 @@ About:
 A typical about page with description os the tool and credits. (I'll provide you with the content later. Use lorem ipsem for now. :-))
 
 Signup Page:
-A usual signup process with no need for email verification (or is it necessary? What do you think?). However, the password must be contain a minimum of 8 characters andmust have a Uppercase character(A-Z), a number(0-9), and a special character(~-/).
+A usual signup process with no need for email verification (or is it necessary? What do you think?).
 
 Login page:
 A usual login page.
 
 Forgot Your Password? page:
-The password shall be 
+The password will be emailed to the user.
+
+
